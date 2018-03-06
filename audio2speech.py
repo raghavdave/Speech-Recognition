@@ -2,13 +2,13 @@
 """
 Created on Fri Sep 08 14:14:18 2017
 
-@author: rpankajdave
+@author: raghavdave
 """
 import os
 from converter import Converter
 import speech_recognition as sr
 
-os.chdir('C:\\Users\\rpankajdave\\Desktop\\Firm Initiative\\Python')
+os.chdir('dir')
 
 r.pause_threshold = 2
 
